@@ -6,7 +6,7 @@ Bonjour à tous ! Acutellement en formation en tant que réalisateur et dev prin
 
 ```c#
 private string Name = Thomas;
-private string LastName = Vergés;
+private string LastName = Vergès;
 ```
 
 ![](FFCC.jpg)
