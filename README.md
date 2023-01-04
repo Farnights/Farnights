@@ -1,4 +1,9 @@
 # _Farnights_
+
+```c#
+private string Name = Thomas;
+private string LastName = Vergès;
+```
  
 ## Réalisateur et Développeur d'application 3D en temps réel
 
@@ -16,10 +21,3 @@ Jeux favoris :
 - Metal Gear Solid 3 "Snake Eater" 🐍
 
 ![MGS3-Art-Shinkawa-Thumnail-800x445](https://user-images.githubusercontent.com/120110552/210525084-01ae19b0-31f3-4f5d-8e57-db218ea35e58.jpg)
-
-
-```c#
-private string Name = Thomas;
-private string LastName = Vergès;
-```
-
